@@ -65,3 +65,11 @@
     transform: translate(0, 0);
   }
 }
+
+/* 設定網頁的佈景主題為黑色 */
+body {
+  background-color: black;
+  color: white;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
