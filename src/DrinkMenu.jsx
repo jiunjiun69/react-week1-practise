@@ -104,6 +104,7 @@ function DrinkMenu() {
                         <th scope="col" className='describe'>描述</th>
                         <th scope="col" className='price'>價格</th>
                         <th scope="col" className='instock'>庫存</th>
+                        <th scope="col" className='action'>操作</th>
                     </tr>
                 </thead>
                 <tbody>
